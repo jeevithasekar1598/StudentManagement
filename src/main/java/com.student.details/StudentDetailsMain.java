@@ -8,5 +8,5 @@ public class StudentDetailsMain {
 
     public static void main(String[] args) {
        
-        
+        StudentDetails sd = new StudentDetails();
 }
